@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋, I'm Abdul Rahman Ibrahim</h1>
-<h3 align="center">A Passionate FrontEnd Web Developer</h3>
+<h3 align="center">A Passionate Software and Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Rahman-Ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Rahman-Ibrahim" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rahman-Ibrahim" alt="Abdul-Rahman-Ibrahim" /></a> </p>
 
@@ -7,9 +7,9 @@
 <img align="right" width="40%" height="210" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 
-- 🔭 I’m currently working on Ambulance Tracking System
+- 🔭 I’m currently working on building various ML models for optimization problems
 
-- 🌱 I’m currently learning **SEO MARKETING**
+- 🌱 I’m currently learning everything
 
 - 👨‍💻 All of my projects are available at https://github.com/Abdul-Rahman-Ibrahim?tab=repositories
 
@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<a href="https://web.facebook.com/fuseini.abdulwahab.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fendi bosslyn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fendi_bosslyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fendi_bosslyn" height="30" width="40" /></a>
-<a href="https://twitter.com/Fendi_Bosslyn89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="endi_Bosslyn89" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fuseini-abdul-wahab-58b502237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="endi_Bosslyn89" height="30" width="40" /></a
+<a href="https://www.facebook.com/abdulrahman.ibrahim.56232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wofa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/wofa00/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wofa" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="endi_Bosslyn89" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wofa" height="30" width="40" /></a
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
