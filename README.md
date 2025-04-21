@@ -3,10 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Rahman-Ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Rahman-Ibrahim" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rahman-Ibrahim" alt="Abdul-Rahman-Ibrahim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Fendi_Bosslyn89" target="blank"><img src="https://img.shields.io/twitter/follow/wofa00?logo=twitter&style=for-the-badge" alt="Abdul-Rahman-Ibrahim" /></a> </p>
-<img align="right" width="40%" height="210" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
-
-
 - 🔭 I’m currently working on building various ML models for optimization problems
 
 - 🌱 I’m currently learning everything
